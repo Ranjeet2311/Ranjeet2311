@@ -1,4 +1,4 @@
-### Hi there 👋, Ranjeet 😃
+### Hi there 👋, I'm Ranjeet 😃
 #### Thank you for visiting my Github.
 ![Thank you for visiting my Github.](https://media-exp1.licdn.com/dms/image/C4D16AQFViCx4692Fxw/profile-displaybackgroundimage-shrink_200_800/0/1645269911873?e=2147483647&v=beta&t=SaF7Siy3Tx73_i_ZG_18-tKpLUwPUIb7Wp2seSgL-W0)
 
