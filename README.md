@@ -4,7 +4,7 @@
 
 Perseverance and creativity drive my day-to-day actions. I'm a frontend developer with creativity, scalability and responsibility. Experienced in leveraging HTML,CSS, SASS, JavaScript, ReactJS and Restful API to build responsive and interactive websites/web apps. Respect | honesty | simplicity | smart work | hard work | ~ are my basics.
 
-📣📢🧬🧬Skills:-  | ✔Reactjs | ✔Html | ✔Css | ✔Sass | ✔Java Script | ✔JQuery | ✔Material-Ui | ✔Bootstrap | ✔Git/Bitbucket | ✔Vscode | ✔Parcel | ✔Webpack |
+📣📢🧬🧬Skills:-  | ✔Reactjs | ✔Html | ✔Css | ✔Sass | ✔Java Script | ✔JQuery | ✔Material-Ui | ✔Bootstrap | ✔Git/Bitbucket/Gitlab | ✔Vscode | ✔Parcel | ✔Webpack |
 
 
 
