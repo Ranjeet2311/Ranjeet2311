@@ -9,7 +9,9 @@ Respect | honesty | simplicity | smart work | hard work | ~ are my basics.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style=" height: 300px; object-fit: fill;" width="600" height="auto"/>
 <br>
 
-:mechanical_arm: Skills:-  ✔Vue | ✔Reactjs | ✔Angular | ✔Hugo | ✔Html | ✔Css | ✔Sass | ✔TypeScript |  ✔Java Script | ✔JQuery | ✔Material-Ui | ✔Bootstrap | ✔Git/Bitbucket/Gitlab | ✔AdobeXd | ✔Vscode | ✔Parcel | ✔Webpack |
+![My Skills](https://skillicons.dev/icons?i=angular,vue,react,ts,js,html,jquery,materialui,scss,css,bootstrap,github,gitlab,vscode,webpack,nodejs,express,postgres,firebase,docker,npm,xd)
+
+<!-- :mechanical_arm: Skills:-  ✔Vue | ✔Reactjs | ✔Angular | ✔Hugo | ✔Html | ✔Css | ✔Sass | ✔TypeScript |  ✔Java Script | ✔JQuery | ✔Material-Ui | ✔Bootstrap | ✔Git/Bitbucket/Gitlab | ✔AdobeXd | ✔Vscode | ✔Parcel | ✔Webpack | -->
  
 :point_right: Portfolio: [Click here :](https://ranjeet2311.github.io/upgraded/)  
 :point_right: Linkedin: [Click here :](https://www.linkedin.com/in/ranjeet-kumar-23n19/)  
