@@ -16,6 +16,5 @@ Respect | honesty | simplicity | smart work | hard work | ~ are my basics.
 :point_right: Portfolio: [Click here :](https://ranjeet2311.github.io/upgraded/)  
 :point_right: Linkedin: [Click here :](https://www.linkedin.com/in/ranjeet-kumar-23n19/)  
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/Ranjeet2311/github-readme-quotes)
 
