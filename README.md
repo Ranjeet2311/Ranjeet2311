@@ -5,7 +5,7 @@ Perseverance and creativity drive my day-to-day actions. I'm a frontend develope
 
 If my head is not processing the solution of the bug, I encountered today. Then I'm most likely doing something like yoga, tai-chi martial arts or watching documentaries, historic events, comedy & action movies or listening to some tech-podcasts and tech tutorials.
 
-``` const { Respect, honesty, simplicity, smart work, hard work, ...internet_resources } = My basics ```
+``` const { respect, honesty, simplicity, smart work, hard work, ...internet_resources } = myBasics ```
 
 <br>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style=" height: 300px; object-fit: fill;" width="600" height="auto"/>
